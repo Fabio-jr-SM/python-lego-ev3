@@ -1,4 +1,4 @@
-Python e Lego EV3
+# Program in Python with EV3
 ---
 
 ### 1. **Seguir linha e reencontrar a linha ao se perder** (com 1 sensor de cor)
